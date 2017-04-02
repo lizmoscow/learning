@@ -2,6 +2,9 @@
 # conda install -c conda-forge keras (по умолчанию работает с теано после установки)
 #в случае, если linux  - keras вроде уже добавлен в основной набор пакетов, можно пробовать conda install keras
 
+# -- pip --
+# pip install theano
+# pip install tensorflow
 # -*- coding: utf-8 -*-
 '''An implementation of sequence to sequence learning for performing addition
 Input: "535+61"
