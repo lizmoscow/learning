@@ -4,6 +4,9 @@
 Python part which will process the data (Machine Learning?) <br />
 В связи с поломкой одной из библиотек Python3.6 перешли на Python3.4
 
+<br/>
+Тут лежит файл drivers.csv без заголовков. Так и надо, для того чтобы не парсить его, а сразу перерабатывать в модель.
+
 ## build docker image use it
 `docker-compose up`
 
